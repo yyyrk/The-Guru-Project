@@ -1,2 +1,2 @@
-# The-Guru
+# The-Guru-Project
 My first Rails App
